@@ -1,12 +1,12 @@
-h1{
-    font-family: 'Courier New', Courier, monospace;
-    color: purple;
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: purple;
 }
 
-h4{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: lightgreen;
-    background-color: gray;
-    padding: 5px;
-    border: 2px solid;
+h4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightgreen;
+  background-color: gray;
+  padding: 5px;
+  border: 2px solid;
 }

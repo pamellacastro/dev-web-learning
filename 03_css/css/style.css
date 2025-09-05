@@ -1,10 +1,10 @@
 /* 4 - External */
-body{
-    padding-bottom: 500px;
+body {
+  padding-bottom: 500px;
 }
 
-h3{
-    color: orange;
+h3 {
+  color: orange;
 }
 
 /*O CSS É CARREGADO  A PARTIR DE UM ORDEM;
@@ -13,3 +13,16 @@ ESTA REGRA FUNCIONA QUANDO TEMOS ESTILOS EM UM MESMO ELEMENTO;
 INTERNO E EXTERNO TEM A MESMA PRIORIDADE, A ÚLTIMA REGRA GANHA A 'CORRIDA'.
 */
 
+/* 8 - Classes */
+.paragrafos {
+  background-color: darkcyan;
+  padding: 10px;
+  color: white;
+}
+
+/* 9 ID */
+#titulo-exclusivo {
+  background-color: purple;
+  color: yellow;
+  padding: 10px;
+}

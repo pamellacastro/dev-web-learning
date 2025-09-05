@@ -1,50 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>CSS</title>
     <!--3 Internal CSS-->
     <style>
-        p{
-            color: yellowgreen;
-            font-size: 20px;
-        }
+      p {
+        color: yellowgreen;
+        font-size: 20px;
+      }
     </style>
 
     <!--4 External CSS-->
     <!-- Cascading Style Sheete-->
-    <link rel="stylesheet" href="css/style.css">
-    <!-- 6 Multiplos CSS-->
-    <link rel="stylesheet" href="css/lists.css">
+    <link rel="stylesheet" href="css/style.css" />
 
-</head>
-<body>
+    <!-- 6 Multiplos CSS-->
+    <link rel="stylesheet" href="css/lists.css" />
+  </head>
+  <body>
     <!--1 Inline CSS-->
-    <h1 style="color: blue;">Mudar cor com inline</h1>
-    <h2 style="color: darkblue;">Outro título</h2>
+    <h1 style="color: blue">Mudar cor com inline</h1>
+    <h2 style="color: darkblue">Outro título</h2>
 
     <!--2 Multiplas Regras-->
-    <h1 style="color: purple; font-size: 50px; border-bottom: 3px solid green;">Mudar cor e tamanho da fonte</h1>
+    <h1 style="color: purple; font-size: 50px; border-bottom: 3px solid green">
+      Mudar cor e tamanho da fonte
+    </h1>
 
     <!--3 Internal CSS-->
     <p>Eu fui estilizado pelo Internal head</p>
-    <p>Aqui vai sofrer a mesma estilização do Internal head pois ele ta pegando todos os paragrafos.</p>
+    <p>
+      Aqui vai sofrer a mesma estilização do Internal head pois ele ta pegando
+      todos os paragrafos.
+    </p>
 
     <!-- 4 External CSS-->
     <h3>Meu titulo verde</h3>
 
     <!-- 5 Ordem do CSS-->
-    <p style="color: red;"> Ordem do CSS</p>
-    <p> Ordem do CSS 02</p>
+    <p style="color: red">Ordem do CSS</p>
+    <p>Ordem do CSS 02</p>
 
     <!-- 6 Multiplos CSS-->
     <ul>
-        <li>Banana</li>
-        <li>Maçã</li>
-        <li>Abacate</li>
-        <li>Mamão</li>
+      <li>Banana</li>
+      <li>Maçã</li>
+      <li>Abacate</li>
+      <li>Mamão</li>
     </ul>
 
-</body>
+    <!-- 8 Classes-->
+    <p class="paragrafos">Texto 01</p>
+    <p class="paragrafos">Texto 02</p>
+    <p class="paragrafos">Texto 03</p>
+
+    <!-- 9 ID -->
+    <h1 id="titulo-exclusivo">Este titúlo é com seletor id</h1>
+  </body>
 </html>
