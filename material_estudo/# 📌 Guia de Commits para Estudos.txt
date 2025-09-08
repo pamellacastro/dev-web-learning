@@ -1,0 +1,39 @@
+# 📌 Guia de Commits para Estudos
+
+Este repositório é usado para acompanhar meu aprendizado em desenvolvimento.  
+Para manter a organização, sigo um padrão de commits inspirado no **Conventional Commits**, adaptado para estudos.
+
+---
+
+## 🔑 Tipos de commit
+
+- **feat:** quando adiciono algo novo que aprendi (ex.: exercício, aula, módulo).  
+- **docs:** para anotações, resumos ou materiais de apoio.  
+- **chore:** para tarefas de organização (ex.: criação de pastas, ajustes de estrutura).  
+- **refactor:** quando reescrevo ou melhoro um código já feito.  
+- **fix:** se corrijo algum erro em exercício ou anotação.  
+- **style:** para ajustes de formatação, indentação ou renomeação de arquivos.  
+
+---
+
+## 📚 Exemplos práticos
+
+- `feat: adicionar exercícios do módulo 2 de JavaScript`  
+- `docs: resumo sobre funções em Python`  
+- `chore: organizar pastas por capítulos`  
+- `refactor: reescrever exercício de arrays usando map`  
+- `fix: corrigir erro de sintaxe no código de loops`  
+- `style: padronizar nomes de arquivos em minúsculo`  
+
+---
+
+## 🎯 Dica extra
+Sempre que possível, indicar **aula, módulo ou capítulo** ajuda a manter a linha do tempo clara:
+
+- `feat: concluir aula 03 - variáveis e tipos`  
+- `docs: adicionar anotações da seção 5 - DOM`  
+- `feat: implementar exercício prático do capítulo 7`  
+
+---
+
+✨ Assim, fica fácil acompanhar minha evolução no curso e manter o histórico do repositório bem organizado.
