@@ -25,7 +25,7 @@ Aqui vou registrar minha evolução no **Desenvolvimento Web**, com anotações,
 
 ## 📈 Progresso do Aprendizado
 
-- [ ] HTML básico
+- [X] HTML básico
 - [ ] CSS básico
 - [ ] Responsividade (Flexbox & Grid)
 - [ ] Fundamentos de JavaScript
@@ -37,6 +37,12 @@ Aqui vou registrar minha evolução no **Desenvolvimento Web**, com anotações,
 ---
 
 ## 🚀 Padrões para Mensagens de Commit (Conventional Commits)
+
+- study: Usado para registrar o aprendizado de um novo conceito.
+- note: Usado para adicionar anotações detalhadas ou exemplos.
+- review: Usado para revisar um conceito antigo que você revisitou.
+- refactor: Usado para melhorar a organização das suas anotações (não o código).
+- docs: Para documentar o que você aprendeu, como se estivesse criando um manual para você mesmo. 
 
 - feat Nova funcionalidade para o usuário. - Ex: feat: adiciona botão de login
 - fix Correção de bug. - Ex: fix: corrige erro no cálculo de frete
